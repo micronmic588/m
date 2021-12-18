@@ -250,10 +250,7 @@ elif None:
 
 
     
-    def menu_log():
-        bersih()
-        clear()
-        
+   
         try:
             _haha_hihi_(banner(_auth01_).get('logo3'))
         finally:
@@ -426,32 +423,6 @@ elif None:
 
 
 
-
-
-    
-    def menu():
-        clear()
-        
-        try:
-            _haha_hihi_(banner(_auth01_).get('logo3'))
-        finally:
-            pass
-        kata_buat_perecode()
-        _bomb_1_ = open(bomb1, 'r').read()
-        _bomb_2_ = open(bomb2, 'r').read()
-        _bomb_3_ = open(bomb3, 'r').read()
-        _bomb_4_ = open(bomb4, 'r').read()
-        if _bomb_1_ == '_zxcv!.95lltgv#@%-=;sfg_':
-            if _bomb_2_ == 'Dapunta_Ratya':
-                if _bomb_3_ == 'EliteSourceCode01':
-                    if _bomb_4_ == 'ILoveYou':
-                        kata_buat_perecode()
-                    else:
-                        kata_buat_perecode()
-                else:
-                    kata_buat_perecode()
-            else:
-                kata_buat_perecode()
                 
                 try:
                     lisensi = _dapunta_dapunta_('license.txt', 'r').read()
@@ -4022,18 +3993,8 @@ elif None:
 
 
 
-        
-        def aokwaokwaokw(fuck):
-            clear()
-            _ceok_ = []
-            
-            try:
-                os.remove(bomb1)
-                os.remove(bomb2)
-                os.remove(bomb3)
-                os.remove(bomb4)
-            finally:
-                pass
+     
+           
             
        
 
